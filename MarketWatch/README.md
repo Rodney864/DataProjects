@@ -7,7 +7,7 @@
 ![SQLite](https://img.shields.io/badge/SQLite-database-green?logo=sqlite)
 ![Tests](https://img.shields.io/badge/tests-pytest-orange)
 
-## 🎥 Demo
+## 🎥 Demo (https://mark3t.streamlit.app/)
 
 <img width="1870" height="872" alt="Demo" src="https://github.com/user-attachments/assets/00002705-ec8e-4744-a388-63d30a5be385" />
 
