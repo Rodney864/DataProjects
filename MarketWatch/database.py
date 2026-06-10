@@ -1,7 +1,11 @@
 import sqlite3
 import pandas as pd
+import os
+import tempfile
 
-DB_PATH = "market_data.db"
+# Local: market_data.db in project folder.
+# Cloud: writable temp directory.
+DB_PATH = os.path.join(tempfile.gettempdir(), "market_data.db")
 
 
 def get_connection(db_path: str = DB_PATH):
